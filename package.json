@@ -1,0 +1,23 @@
+{
+  "name": "ttp_group9_assignment6_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shakhramg/TTP_Group9_Assignment7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shakhramg/TTP_Group9_Assignment7/issues"
+  },
+  "homepage": "https://github.com/shakhramg/TTP_Group9_Assignment7#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
