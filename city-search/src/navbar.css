@@ -12,7 +12,9 @@
 }
 
 .navbar-slogan {
-    
+    font-size: 13px;
+    font-style: italic;
+    color: white;
 }
 
 .navbar-team-names {
