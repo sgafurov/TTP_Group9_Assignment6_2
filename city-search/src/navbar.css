@@ -1,23 +1,23 @@
-.app--navbar {
+.navbar {
     display: flex;
     background-color: rgb(7, 21, 148);
     padding: 30px 10px 10px 30px;
 }
 
-.app--name {
+.navbar-name {
     color: white;
     font-size: 26px;
     margin-left: 10px;
 }
 
-.team--names {
+.navbar-team-names {
     position: fixed;
     right: 0;
     padding-right: 15px;
     color: white;
 }
 
-.app--logo {
+.navbar-logo {
     width: 100px;
 }
 
