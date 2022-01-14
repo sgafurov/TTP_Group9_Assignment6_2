@@ -1,5 +1,5 @@
 .search-bar{
-    background-color: rgba(252, 249, 249, 0.3);
+    background-color: rgba(252, 249, 249, 0.5);
     width:950px;
     margin:auto;
     
@@ -12,9 +12,12 @@
     flex-wrap: wrap;
     font-size: 22px;
     font-weight: bold;
-    background-color: rgba(136, 50, 221, 0.3);
-    color:rgb(128, 16, 16);
-    
+    background-color: rgba(122, 121, 121, 0.5);
+    color:rgb(45, 89, 170)
+}
+
+.city-name {
+    padding-top: 15px;
 }
 
 .city-name-input{
@@ -33,9 +36,11 @@
     border-width: 5px;
     border-color: rgb(0, 0, 0);
 }
+
 .city-name-input:hover, .city-name-input:focus{
-    background-color: rgb(175, 239, 250);
+    background-color: rgba(116, 107, 238, 0.5);
 }
+
 .city-name-submit-btn {
     background-color: rgb(0, 0, 0);
     width: 100px;

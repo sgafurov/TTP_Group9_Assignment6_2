@@ -5,13 +5,12 @@
     max-height: 100px;
     color: white;
     width: 900px;
-    margin:auto;
+    margin: 0 auto;
     opacity: 0.9;
 }
 
-.navbar-name { 
-    font-size: 30px;
-    
+.navbar-name {
+    font-size: 35px;
 }
 
 .navbar-slogan {
