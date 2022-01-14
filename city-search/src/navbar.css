@@ -1,33 +1,38 @@
 .navbar {
     display: flex;
     background-color: rgb(21, 88, 143);
-    padding: 30px;
-    align-self: center;
+    padding: 30px ;
+    max-height: 100px;
+    color: white;
+    width: 900px;
+    margin: 0 auto;
+    opacity: 0.9;
 }
 
 .navbar-name {
-    color: white;
-    font-size: 30px;
-    margin-left: 10px;
+    font-size: 35px;
 }
 
 .navbar-slogan {
-    font-size: 13px;
-    font-style: italic;
-    color: white;
+    margin-top: 0;
 }
 
 .navbar-team-names {
-    position: fixed;
-    right: 0;
+    position: relative;
     color: white;
-    padding-right: 30px;
+    padding-top: 58px;
+    width: 232px;
+    margin-left: 190px;
 }
 
 .navbar-logo {
     width: 200px;
+    height: 110px;
 }
 
-body {
-    background-color: rgb(184, 231, 250);
+.nav-vertical{
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+    text-align: left;
 }
